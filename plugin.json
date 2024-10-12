@@ -2,7 +2,7 @@
   "name": "siyuan-plugin-imgAddLink",
   "author": "Achuan-2",
   "url": "https://github.com/siyuan-note/siyuan-plugin-imgAddlink",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "minAppVersion": "3.1.7",
   "backends": [
     "windows",
