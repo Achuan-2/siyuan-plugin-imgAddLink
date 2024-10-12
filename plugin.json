@@ -1,0 +1,46 @@
+{
+  "name": "siyuan-plugin-imgAddLink",
+  "author": "Achuan-2",
+  "url": "https://github.com/siyuan-note/siyuan-plugin-imgAddlink",
+  "version": "1.0.0",
+  "minAppVersion": "3.1.7",
+  "backends": [
+    "windows",
+    "linux",
+    "darwin",
+    "ios",
+    "android",
+    "docker"
+  ],
+  "frontends": [
+    "desktop",
+    "mobile",
+    "browser-desktop",
+    "browser-mobile",
+    "desktop-window"
+  ],
+  "displayName": {
+    "default": "imgAddlink",
+    "zh_CN": "图片添加超链接"
+  },
+  "description": {
+    "default": "Hide the hyperlink behind the image and convert it into an icon. Click to open the link",
+    "zh_CN": "对图片后面的超链接进行隐藏，转变为图标，点击打开链接"
+  },
+  "readme": {
+    "default": "README.md",
+    "zh_CN": "README_zh_CN.md"
+  },
+  "funding": {
+    "openCollective": "",
+    "patreon": "",
+    "github": "",
+    "custom": [
+      "https://ld246.com/sponsor"
+    ]
+  },
+  "keywords": [
+    "sample",
+    "示例"
+  ]
+}

@@ -1,0 +1,15 @@
+.protyle-wysiwyg [data-node-id] .img__link{
+      position: absolute;
+      top: 4px;
+      left: 4px;
+      color: var(--b3-theme-primary);
+      background-color: var(--b3-theme-surface-lighter);
+      padding: 4px;
+      border-radius: var(--b3-border-radius);
+      z-index: 1;
+}
+.protyle-wysiwyg [data-node-id] .img__link svg {
+  height: 12px;
+  width: 12px;
+  float: left;
+}
