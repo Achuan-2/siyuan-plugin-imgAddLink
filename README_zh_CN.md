@@ -10,6 +10,7 @@
 启用插件前
 ![](https://fastly.jsdelivr.net/gh/Achuan-2/PicBed/assets/PixPin_2024-10-12_18-56-53-2024-10-12.png)
 启用插件后
+![](https://fastly.jsdelivr.net/gh/Achuan-2/PicBed/assets/PixPin_2024-10-12_19-32-16-2024-10-12.png)
 
 ## 插件用途
 - 剪藏时，不少网页图片带有超链接，插件可以美化这些带有超链接的图片
