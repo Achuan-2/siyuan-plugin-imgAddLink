@@ -7,9 +7,9 @@
 本插件可以对图片同一行放在后面的超链接进行隐藏，并在图片右侧添加一个链接图标，模拟图片添加超链接的样式
 
 功能预览
-启用插件前
+**启用插件前**
 ![](https://fastly.jsdelivr.net/gh/Achuan-2/PicBed/assets/PixPin_2024-10-12_18-56-53-2024-10-12.png)
-启用插件后
+**启用插件后**
 ![](https://fastly.jsdelivr.net/gh/Achuan-2/PicBed/assets/PixPin_2024-10-12_19-32-16-2024-10-12.png)
 
 ## 插件用途
