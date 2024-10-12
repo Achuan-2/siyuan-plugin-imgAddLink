@@ -21,11 +21,11 @@
   ],
   "displayName": {
     "default": "imgAddlink",
-    "zh_CN": "图片添加超链接"
+    "zh_CN": "图片支持超链接"
   },
   "description": {
     "default": "Hide the hyperlink behind the image and convert it into an icon. Click to open the link",
-    "zh_CN": "对图片后面的超链接进行隐藏，转变为图标，点击打开链接"
+    "zh_CN": "对图片后面的超链接进行隐藏，转变为带超链接的图标"
   },
   "readme": {
     "default": "README.md",
