@@ -46,13 +46,11 @@ export default class PluginSample extends Plugin {
         const imgSpans = document.querySelectorAll('.protyle-wysiwyg span.img');
 
         imgSpans.forEach(imgSpan => {
-            // 找到 imgSpan 后面的兄弟节点
             const nextSibling = imgSpan.nextElementSibling;
 
-            // 检查是否是 span.a 节点
             if (nextSibling && nextSibling.dataset.type === 'a') {
-                // 隐藏 span.a 节点
-                nextSibling.style.display = 'none';
+                // Use CSS class instead of inline style
+                nextSibling.classList.add('hide-link');
 
                 // 找到 span.img 的第二个 span
                 const innerSpans = imgSpan.querySelectorAll('span');

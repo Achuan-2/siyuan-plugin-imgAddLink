@@ -13,3 +13,7 @@
   width: 12px;
   float: left;
 }
+
+.protyle-wysiwyg .hide-link {
+  display: none !important;
+}
